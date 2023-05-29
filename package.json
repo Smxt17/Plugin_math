@@ -1,0 +1,21 @@
+{
+  "name": "info.andriodabcd.plugin.smit",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "cordova": {
+    "id": "info.andriodabcd.plugin.smit",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Smxt",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
